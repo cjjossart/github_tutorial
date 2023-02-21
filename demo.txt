@@ -1,3 +1,2 @@
 This is the demo text file.
-
-Adding text update
+This is the demo text file that has been changed.
